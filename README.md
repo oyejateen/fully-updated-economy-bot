@@ -1,5 +1,5 @@
 # EconomyBot
-**This Economy bot was created by 0_0#6666**
+**This Economy bot was created by sunshine#5158**
 
 **IN BOTCONFIG.JSON DO NOT CHANGE ANY VARIABLE THE CountChannel var is for if you want to set a channel to count for users if not just leave it blank AND EVERYTHING ELSE IS SELF EPLAINATORY JUST CHANGE THE VALUES 
 INSIDE "" TO MAKE YOUR BOT FUNCTION PROPERLY!**
